@@ -14,7 +14,11 @@ php artisan serve
 
 
 ## Screenshots
-![](https://raw.githubusercontent.com/codehafeez/laravel-crud-with-auth-ajax/main/Screenshots/Output-01.png)
+![](https://raw.githubusercontent.com/codehafeez/laravel-crud-with-image/main/Screenshots/Output-01.png)
+![](https://raw.githubusercontent.com/codehafeez/laravel-crud-with-image/main/Screenshots/Output-02.png)
+![](https://raw.githubusercontent.com/codehafeez/laravel-crud-with-image/main/Screenshots/Output-03.png)
+![](https://raw.githubusercontent.com/codehafeez/laravel-crud-with-image/main/Screenshots/Output-04.png)
+![](https://raw.githubusercontent.com/codehafeez/laravel-crud-with-image/main/Screenshots/Output-05.png)
 
 
 ## 🔗 www.codehafeez.com
